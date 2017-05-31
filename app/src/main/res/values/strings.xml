@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LayoutCheck</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="to_hint"></string>
+    <string-array name="fruit">
+        <item>apple</item>
+        <item>banana</item>
+        <item>pear</item>
+    </string-array>
+    
+</resources>
